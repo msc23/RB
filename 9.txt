@@ -1,3 +1,4 @@
+#pip install opencv-python
 import cv2
  #reading theimage
 img=cv2.imread("Face.jpg")
